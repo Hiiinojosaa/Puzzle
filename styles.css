@@ -23,15 +23,20 @@ position: absolute;
     position: absolute;
 }
 
-    .tercero {
-        background-color: black;
-        width: 100px;
+    .tercero { background-color: black;
         height: 50px;
         margin-left: 100px;
     }
 
-    .primera1 {
-        background-color: bisque;
+    .cuarto {
+        background-color: rgb(123, 85, 38);
+        width: 100px;
+        height: 50px; 
+        position: absolute;
+
+    }
+.quinto {
+        background-color: rgb(38, 78, 123);
         width: 200px;
         height: 50px; 
 

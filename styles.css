@@ -1,43 +1,105 @@
-h1{
-    color:aqua;
+hh1 {
+    color:black;
 }
+#Contenedor
+ {
+    background-color:rgb(0, 255, 149);
+    width: 300px;
+    height: 300px ;
 
-#contenedor{
-background-color: rgb(42, 165, 97);
-width: 300px;
-height: 300px;
 }
-
-.primera {
-    background-color: rgb(0, 38, 255);
+.primera{
+background-color: rgb(72, 166, 72);
 width: 100px;
 height: 50px;
 position: absolute;
 }
-
-.segunda {
-    background-color: rgb(248, 248, 248);
-    width: 100px ;
-    height: 50px ;
-    margin-left: 100px;
-    position: absolute;
+.segundo{
+background-color: rgb(171, 89, 89);
+width: 100px;
+height: 50px;
+margin-left: 100px;
+position: absolute;
+}
+.tercera { background-color: rgb(0, 17, 255);
+width: 100px ;
+height: 50px ;
+margin-left: 200px;
+ }
+.cuarto { background-color: yellow;
+width: 100px ;
+height: 50px ;
+position: absolute;
 }
 
-    .tercero { background-color: black;
-        height: 50px;
-        margin-left: 100px;
-    }
+.quinto { background-color: rgb(0, 0, 0);
+width: 100px;
+height: 50px;
+margin-left: 100px;
+position: absolute;
+}
+.sexto { background-color: rgb(37, 72, 65);
+width: 100px;
+height:50px;
+margin-left: 200px ;
+}
+.septimo{ background-color: rgb(165, 30, 214);
+width:100px;
+height: 50px; 
+position: absolute;}
+.octavo { background-color: rgb(160, 43, 0);
+width:100px; 
+height:50px;
+margin-left: 100px;
+position: absolute;}
+.noveno { background-color: rgb(189, 220, 157);
+width:100px; 
+height:50px; 
+margin-left: 200px;}
 
-    .cuarto {
-        background-color: rgb(123, 85, 38);
-        width: 100px;
-        height: 50px; 
-        position: absolute;
+.diez{ background-color: rgb(78, 13, 78);
+width:100px; 
+height:50px;
+position: absolute;}
 
-    }
-.quinto {
-        background-color: rgb(38, 78, 123);
-        width: 200px;
-        height: 50px; 
+.once{ background-color: blue;
+width:100px; 
+height:50px;
+position: absolute;
+margin-left: 100px;}
 
-    }
+.doce{background-color: aqua;
+width:100px;
+height: 50px;
+margin-left: 200px;}
+
+.trece{background-color: fuchsia;
+width:100px;
+height:50px;
+position: absolute;
+}
+.catorce{background-color: darkseagreen;
+width: 100px;
+height: 50px;
+position: absolute; 
+margin-left: 100px;
+}
+.elunoycinco {background-color: black;
+width:100px;
+height:50px;
+margin-left: 200px; ;
+}
+.dieciseis {background-color: lightgreen;
+width:100px;
+height:50px;
+position: absolute;
+}
+.diecisiete {background-color: firebrick;
+width:100px;
+height:50px;
+margin-left:100px;
+position: absolute;}
+.dieciocho {background-color: hotpink;
+width:100px;
+height:50px;
+margin-left: 200px;}
